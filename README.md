@@ -1,7 +1,7 @@
 ### Hi there, I'm Windstonp 👋
 
 ```diff
-@@ I'm a Laravel develper at Doutbox @@
+@@ I'm a Laravel developer at Doutbox @@
 
 ```
 
