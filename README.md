@@ -1,14 +1,27 @@
-### Hi there, I'm Windstonp 👋
+<h1 align="center"> 
+  Hi there, I'm Windstonp 👋
+  <br />
+  
+  <div align="center">
+      
+   [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/windstonp/)
+   [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/windstonp)
+   
+  </div>
+</h1>
 
 ```diff
 @@ I'm a Laravel developer at Doutbox @@
 
 ```
 
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/windstonp/)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/windstonp)
-
-
+- 🌎 Languages
+  - Portuguese (Native) 
+  -  English (Advanced) 
+  - Russian (Want to learn someday) 
+  - Czech (Want to learn someday)
+  - German (Want to learn someday)
+  - Japanese (Want to learn someday)
 
 | windstonp's stats | Top Langs |
 | :--: | :--: |
