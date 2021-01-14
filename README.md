@@ -45,6 +45,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="center" alt="most used Languages">
       </p>
     </div>
+  <br />
   <div align="center">
     <p align="center" >
     
@@ -52,21 +53,17 @@
     
    </p>
   </div>
-  
   <br />
-  <br />
-  
    <div  align="center">
       <p  align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=windstonp&theme=radical" align="center" alt="most used Languages">
       </p>
     </div>
+   <br />
   <div align="center">
     <p align="center" >
     
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=windstonp&theme=radical&layout=compact"  align="center" alt="wakatime stats" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=windstonp&theme=radical&layout=compact"  align="center" alt="wakatime stats" />
     
-    </p>
+   </p>
   </div>
-  
-  
