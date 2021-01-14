@@ -36,19 +36,24 @@
   <br />
   <br />
   
-  <div style="display:flex !important;">
-      <h2 align="left"> ~ 💻 Some Stats 💻  ~</h2>
-      <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="right" alt="most used Languages">
-      </p>
-    </div>
-  <div>
-    <p align="left" >
+  <p align="center" >
     
    ![windstonp's github stats](https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical)
-    
    </p>
-  </div>
+    <br />
+    <br />
+     <br />
+    <br />
+  <p align="center" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="right" alt="most used Languages">
+  </p>
+        <br />
+    <br />
+     <br />
+    <br />
+   
+    
+
   
   <br />
   <br />
