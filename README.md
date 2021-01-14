@@ -42,15 +42,14 @@
    <div align="center">
       <h2 align="center"> ~ 💻 Some Stats 💻  ~</h2>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="center" alt="most used Languages">
+        
+   ![windstonp's github stats](https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical)
       </p>
     </div>
   <br />
   <div align="center">
     <p align="center" >
-    
-   ![windstonp's github stats](https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical)
-    
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="center" alt="most used Languages">
    </p>
   </div>
   <br />
