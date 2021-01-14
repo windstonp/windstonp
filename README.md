@@ -36,14 +36,14 @@
   <br />
   <br />
   
-  <div>
+  <div style="display:flex; flex-wrap: no-wrap;">
       <h2 align="left"> ~ 💻 Some Stats 💻  ~</h2>
       <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="right" alt="most used Languages">
       </p>
     </div>
   <div>
-    <p align="center" >
+    <p align="left" >
     
    ![windstonp's github stats](https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical)
     
