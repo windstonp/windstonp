@@ -14,33 +14,55 @@
 @@ I'm a Laravel developer at Doutbox @@
 
 ```
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 20px;">
-    
-   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rfam3nqh7zns4jbf4q5nn3a" />
-    
+
+ <div>
+    <h2 align="left"> ~ 🌎 Languages 🌎  ~</h2>
+    <p>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rfam3nqh7zns4jbf4q5nn3a&count=3" align="right" alt="spotify latest music listened">
+    </p>
   </div>
+<div>
+  <p align="center" style="margin-bottom: 500px">
   
-  <div style="flex: 1;">
-   
-   - 🌎 Languages
-        - Portuguese (Native)
-        - English (Advanced) 
-        - Russian (Want to learn someday) 
-        - Czech (Want to learn someday)
-        - German (Want to learn someday)
-        - Japanese (Want to learn someday)
-   
-  </div>
+  - Portuguese (Native)
+  - English (Advanced) 
+  - Russian (Want to learn someday) 
+  - Czech (Want to learn someday)
+  - German (Want to learn someday)
+  - Japanese (Want to learn someday)
+  
+  </p>
 </div>
- 
-</p>
+<br />
+<br />
 
-| windstonp's stats | Top Langs |
-| :--: | :--: |
-| ![windstonp's github stats](https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+ <div>
+    <h2 align="left"> ~ 💻 Some Stats 💻  ~</h2>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="right" alt="most used Languages">
+    </p>
+  </div>
+<div>
+  <p align="center" >
+  
+  ![windstonp's github stats](https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical)
+  
+  </p>
+</div>
 
-| windstonp's wakatime stats  | Contributions Streak |
-| :--: | :--: |
-| [![windstonp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=windstonp&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=windstonp&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats) |
+<br />
+<br />
+
+ <div  align="center">
+    <p  align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=windstonp&theme=radical" align="center" alt="most used Languages">
+    </p>
+  </div>
+<div align="center">
+  <p align="center" >
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=windstonp&theme=radical&layout=compact"  align="center" alt="wakatime stats" />
+  
+  </p>
+</div>
 
