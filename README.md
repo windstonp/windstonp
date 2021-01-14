@@ -36,7 +36,7 @@
   <br />
   <br />
   
-  <div style="display:flex; flex-wrap: no-wrap;">
+  <div style="display:flex !important;">
       <h2 align="left"> ~ 💻 Some Stats 💻  ~</h2>
       <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="right" alt="most used Languages">
