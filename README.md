@@ -21,18 +21,21 @@
    <div>
       <h2 align="left"> ~ 🌎 Languages 🌎  ~</h2>
       <p>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rfam3nqh7zns4jbf4q5nn3a&count=3" align="right" alt="spotify latest music listened">
-      </p>
-    </div>
-  <div>
-    <p align="center" style="margin-bottom: 500px">
-    
+   
    - Portuguese (Native)
    - English (Advanced) 
    - Russian (Want to learn someday) 
    - Czech (Want to learn someday)
    - German (Want to learn someday)
    - Japanese (Want to learn someday)
+   
+      </p>
+  </div>
+  <div>
+    <p align="center">
+    
+   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rfam3nqh7zns4jbf4q5nn3a&count=3" align="right" alt="spotify latest music listened">
+
     
    </p>
   </div>
@@ -68,3 +71,4 @@
     
    </p>
   </div>
+
