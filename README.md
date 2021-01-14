@@ -1,4 +1,8 @@
-<h1 align="center"> 
+
+
+
+
+  <h1 align="center"> 
     Hi there, I'm Windstonp 👋
     <br />
     
@@ -10,10 +14,9 @@
    </div>
   </h1>
   
-  ```diff
-  @@ I'm a Laravel developer at Doutbox @@
-  
-  ```
+```diff
+@@ I'm a Laravel developer at Doutbox @@
+```
   
    <div>
       <h2 align="left"> ~ 🌎 Languages 🌎  ~</h2>
@@ -36,24 +39,19 @@
   <br />
   <br />
   
-  <p align="center" >
+   <div align="center">
+      <h2 align="center"> ~ 💻 Some Stats 💻  ~</h2>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="center" alt="most used Languages">
+      </p>
+    </div>
+  <div align="center">
+    <p align="center" >
     
    ![windstonp's github stats](https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical)
-   </p>
-    <br />
-    <br />
-     <br />
-    <br />
-  <p align="center" >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="right" alt="most used Languages">
-  </p>
-        <br />
-    <br />
-     <br />
-    <br />
-   
     
-
+   </p>
+  </div>
   
   <br />
   <br />
@@ -66,10 +64,9 @@
   <div align="center">
     <p align="center" >
     
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=windstonp&theme=radical&layout=compact"  align="center" alt="wakatime stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=windstonp&theme=radical&layout=compact"  align="center" alt="wakatime stats" />
     
-   </p>
+    </p>
   </div>
   
   
-
