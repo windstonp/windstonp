@@ -30,9 +30,9 @@
    - Japanese (Want to learn someday)
    
       </p>
-         <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rfam3nqh7zns4jbf4q5nn3a&count=3" align="right" alt="spotify latest music listened">
-
+         
   </div>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=22rfam3nqh7zns4jbf4q5nn3a&count=3" align="right" alt="spotify latest music listened">
 
   <br />
   <br />
