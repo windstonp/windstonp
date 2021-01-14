@@ -40,9 +40,9 @@
       <h2 align="left"> ~ 💻 Some Stats 💻  ~</h2>
   
     
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="right" alt="most used Languages" style="width: 50%">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical" align="right" alt="most used Languages" style="width: 45%">
     
-   <img src="https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical" style="width: 50%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical" style="width: 45%" />
     
   </div>
   
