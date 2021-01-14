@@ -14,14 +14,27 @@
 @@ I'm a Laravel developer at Doutbox @@
 
 ```
-
-- 🌎 Languages
-  - Portuguese (Native) 
-  -  English (Advanced) 
-  - Russian (Want to learn someday) 
-  - Czech (Want to learn someday)
-  - German (Want to learn someday)
-  - Japanese (Want to learn someday)
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 20px;">
+    
+   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rfam3nqh7zns4jbf4q5nn3a" />
+    
+  </div>
+  
+  <div style="flex: 1;">
+   
+   - 🌎 Languages
+        - Portuguese (Native)
+        - English (Advanced) 
+        - Russian (Want to learn someday) 
+        - Czech (Want to learn someday)
+        - German (Want to learn someday)
+        - Japanese (Want to learn someday)
+   
+  </div>
+</div>
+ 
+</p>
 
 | windstonp's stats | Top Langs |
 | :--: | :--: |
