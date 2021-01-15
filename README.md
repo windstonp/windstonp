@@ -61,7 +61,7 @@
    English (Upper Intermediate , Between C1 and B2)
   </li>
   <li>
-    Russian (A1, Learning) 
+    Russian (Want to learn someday) 
   </li>
   <li>
     Czech (Want to learn someday)
