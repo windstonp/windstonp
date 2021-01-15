@@ -17,6 +17,7 @@
  <div>
   <h2 align="center"> 👨🏻‍💻 ~ About Me ~ 👨🏻‍💻 </h2>
   <img src="https://imgur.com/XfYmE1W.gif" align="right" alt="spotify latest music listened">
+  <ul type="none">
   <li>
   <b>Username:</b> Windstonp</li>
   <li>
@@ -41,6 +42,7 @@
   <li>
   <b>Working :</b> Doutbox (Laravel and React Developer)
   </li>
+  </ul>
   <br />
   <br />
   <p align="center">
@@ -51,6 +53,7 @@
  <div>
   <h2 align="center"> 🌎 ~ Languages ~ 🌎 </h2>
   <img src="https://imgur.com/SvhNR3W.gif" align="right" alt="spotify latest music listened">
+  <ul type="none">
   <li>
     Portuguese (Native)
   </li>
@@ -69,6 +72,7 @@
   <li>
     Japanese (Want to learn someday)
   </li>
+  </ul>
   <br>
 </div>
 
