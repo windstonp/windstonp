@@ -58,7 +58,7 @@
     Portuguese (Native)
   </li>
   <li>
-   English (Advanced, C1, I think!)
+   English (Upper Intermediate , Between C1 and B2)
   </li>
   <li>
     Russian (A1, Learning) 
