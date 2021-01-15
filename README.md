@@ -46,11 +46,7 @@
   <p align="center">
     🎯 Don't Give up a dream, Nothing's impossible! 🎯
   </p>
-  <br>
 </div>
-
-<br />
-<br />
 
  <div>
   <h2 align="center"> 🌎 ~ Languages ~ 🌎 </h2>
@@ -76,6 +72,8 @@
   <br>
 </div>
 
+<br />
+<br />
 <br />
 <br />
   
