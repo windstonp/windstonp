@@ -14,28 +14,32 @@
 @@ I'm a Laravel developer at Doutbox @@
 ```
   
-   <div>
-      <h2 align="left"> ~ 🌎 Languages 🌎  ~</h2>
-      <p>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rfam3nqh7zns4jbf4q5nn3a&count=3" align="right" alt="spotify latest music listened">
-      </p>
-    </div>
-  <div>
-    <p align="center" style="margin-bottom: 500px">
-    
-   - Portuguese (Native)
-   - English (Advanced) 
-   - Russian (Want to learn someday) 
-   - Czech (Want to learn someday)
-   - German (Want to learn someday)
-   - Japanese (Want to learn someday)
-    
-   </p>
-  </div>
-  <br />
-  <br />
-  <br />
-  <br />
+
+ <div>
+  <h2 align="center"> 🌎 ~ Languages ~ 🌎 </h2>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rfam3nqh7zns4jbf4q5nn3a&count=3" align="right" alt="spotify latest music listened">
+  <li>
+    Portuguese (Native)
+  </li>
+  <li>
+   English (Advanced)
+  </li>
+  <li>
+    Russian (Want to learn someday) 
+  </li>
+  <li>
+    Czech (Want to learn someday)
+  </li>
+  <li>
+    German (Want to learn someday)
+  </li>
+  <li>
+    Japanese (Want to learn someday)
+  </li>
+  <br>
+</div>
+<br />
+
   
    <div align="center">
       <h2 align="center"> ~ 💻 Some Stats 💻  ~</h2>
