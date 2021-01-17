@@ -55,22 +55,22 @@
   <img src="https://imgur.com/SvhNR3W.gif" align="right" alt="spotify latest music listened">
   <ul type="none">
   <li>
-    Portuguese (Native)
+    <b>Portuguese (Native)</b>
   </li>
   <li>
-   English (Upper Intermediate , Between C1 and B2)
+   <b>English (Upper Intermediate , Between C1 and B2)</b>
   </li>
   <li>
-    Russian (Want to learn someday) 
+   </b> Russian (Want to learn someday) </b>
   </li>
   <li>
-    Czech (Want to learn someday)
+    <b>Czech (Want to learn someday)</b>
   </li>
   <li>
-    German (Want to learn someday)
+   <b> German (Want to learn someday)</b>
   </li>
   <li>
-    Japanese (Want to learn someday)
+   <b> Japanese (Want to learn someday)</b>
   </li>
   </ul>
   <p>
