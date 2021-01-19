@@ -115,8 +115,5 @@
 
 | windstonp's stats | Top Langs |
 | :--: | :--: |
-| ![windstonp's github stats](https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windstonp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| ![windstonp's github stats](https://github-readme-stats.vercel.app/api?username=windstonp&show_icons=true&theme=radical) | [![windstonp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=windstonp&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
-| windstonp's wakatime stats  | most used Languages |
-| :--: | :--: |
-| [![windstonp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=windstonp&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | ![most used Languages](https://github-readme-streak-stats.herokuapp.com/?user=windstonp&theme=radical) |
