@@ -61,7 +61,7 @@
    <b>English (Upper Intermediate , Between C1 and B2)</b>
   </li>
   <li>
-   </b> Russian (Want to learn someday) </b>
+   <b> Russian (Want to learn someday) </b>
   </li>
   <li>
     <b>Czech (Want to learn someday)</b>
