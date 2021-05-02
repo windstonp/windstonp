@@ -11,7 +11,7 @@
   </h1>
   
 ```diff
-@@ I'm a Laravel | React developer at Doutbox @@
+@@ I'm a fullstack developer at Doutbox @@
 ```
   
  <div>
